@@ -1,4 +1,4 @@
-# 🧠 ECE 549 — Computer Vision (Spring 2025)
+# 🧠 ECE 549 — Computer Vision (Fall 2025)
 
 **University of Illinois Urbana-Champaign (UIUC)**  
 **Instructor:** Prof. David A. Forsyth  
